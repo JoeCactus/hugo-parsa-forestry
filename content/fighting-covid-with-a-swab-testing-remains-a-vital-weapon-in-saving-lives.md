@@ -11,8 +11,6 @@ type = "post"
 +++
 _Originally published in The Salish Current – 10/16/2020 –_ [_https://salish-current.org/2020/10/16/fighting-covid-with-a-swab-testing-remains-a-vital-weapon-in-saving-lives/_](https://salish-current.org/2020/10/16/fighting-covid-with-a-swab-testing-remains-a-vital-weapon-in-saving-lives/ "https://salish-current.org/2020/10/16/fighting-covid-with-a-swab-testing-remains-a-vital-weapon-in-saving-lives/")
 
-![Cotton Swab self-test procedure](https://salishcurrent.files.wordpress.com/2020/10/2020-10-5-falsenegative-cdc-test-artwork-2-1024x512-1.jpg?w=1024 =1024x512)
-
 The cotton swab is a primary tool in a widely used test for COVID-19, and a vital part of the strategy being deployed to help keep the virus from spreading. Above, a detail from instructions for a kit for taking test samples illustrates one of many resources available from the Centers for Disease Control.
 
 _By Alex Meacham_
@@ -23,7 +21,7 @@ The negative result, however, does not always mean that the virus isn’t presen
 
 Frank Ameduri, public information officer for the Washington State Department of Health said “in general we don’t really track false negatives or false positives either,” meaning that nobody at the state level is really quite sure how many people are going about their lives thinking that they aren’t carrying the virus, when they are.
 
-![When it comes to COVID-19, “we’re in this together,” noted Erika Lautenbach, Whatcom health department director, in a video posted earlier this year.](https://salishcurrent.files.wordpress.com/2020/10/2020-10-15oct20-lautenbach-55-250x250-1.jpg?w=250 "Erika Lautenbach" =250x250)
+!\[When it comes to COVID-19, “we’re in this together,” noted Erika Lautenbach, Whatcom health department director, in a video posted earlier this year.\](https://salishcurrent.files.wordpress.com/2020/10/2020-10-15oct20-lautenbach-55-250x250-1.jpg?w=250 "Erika Lautenbach" =250x250)
 
 Locally, Erika Lautenbach, director of the Whatcom County Health Department, said the state has been working in partnership with local governments to try to find these false negatives. She concludes that the data analysis problem exists because the group of people that could be identified as false negatives includes people who are testing many times. If everyone were tested only once, the percentage would make sense.
 
@@ -41,7 +39,7 @@ According to [research published in June](https://www.nejm.org/doi/full/10.1056/
 
 The same paper suggested that in general, most PCR test could be assumed to be about 70% sensitivity — that is, the test result will be positive in someone who is infected.
 
-![Graphic of 10 people in 100 being infected with COVID-19](https://salishcurrent.files.wordpress.com/2020/10/popfnimage10x10-300x418-1.jpg?w=300 =300x418)
+!\[Graphic of 10 people in 100 being infected with COVID-19\](https://salishcurrent.files.wordpress.com/2020/10/popfnimage10x10-300x418-1.jpg?w=300 =300x418)
 
 Under certain criteria, 10% of COVID-19 samples can be expected to yield negative results regardless of whether the virus is present. (Alex Meacham graphic © 2020)
 
