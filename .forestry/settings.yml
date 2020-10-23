@@ -24,11 +24,9 @@ sections:
 - type: document
   path: content/resume
   label: Resume
-  match: "**/*"
 - type: document
   path: content/Education
   label: Education
-  match: "**/*"
 - type: directory
   path: content/Volunteer Work
   label: Volunteer Work
