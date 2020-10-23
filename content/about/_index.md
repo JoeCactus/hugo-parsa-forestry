@@ -13,6 +13,8 @@ Use the menus above to navigate, I recommend checking out the “videos” tab, 
 
 My environmental niche is hope. Most environmental news is dour and depressing, so it is my goal to find and create good, hopeful news. Perhaps you could use some more hope in your life too?
 
+![](/images/AlexEdit.jpg)
+
 If you have any questions, feel free to email me at alex.meachams@gmail.com or use the contact form below, I’d love to chat!
 
 Thanks for coming, I look forward to hearing from you!
