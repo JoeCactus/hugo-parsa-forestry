@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: content/PublicRelations
+  path: content/publicrelations
   label: Public Relations
 - type: directory
   path: content
