@@ -10,7 +10,7 @@ type = "post"
 +++
 Originally published in The Salish Current – 8/14/2020 – [https://salish-current.org/2020/08/14/defund-the-police-movement-drives-whatcom-racial-justice-discussions/](https://salish-current.org/2020/08/14/defund-the-police-movement-drives-whatcom-racial-justice-discussions/ "https://salish-current.org/2020/08/14/defund-the-police-movement-drives-whatcom-racial-justice-discussions/")
 
-![](https://salishcurrent.files.wordpress.com/2020/08/2020-6-15jun20-bellingham-blm-downtown-44-1024x512-1.jpg?w=1024 =1024x512)
+![](https://salishcurrent.files.wordpress.com/2020/08/2020-6-15jun20-bellingham-blm-downtown-44-1024x512-1.jpg)
 
 “Defund the police” has been a key message in many of this year’s Black Lives Matter protests, including a march in downtown Bellingham on June 15. City officials and community activists are discussing just what that might mean in Whatcom County. (Mike Sato photo © 2020)
 
