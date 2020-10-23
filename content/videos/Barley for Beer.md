@@ -1,12 +1,11 @@
 +++
 categories = []
-date = ""
+date = 2020-05-01T07:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = ""
-type = "post"
+type = "featured"
 
 +++
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WoJIapc75ZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
