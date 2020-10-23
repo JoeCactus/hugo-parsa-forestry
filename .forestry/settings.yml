@@ -5,8 +5,28 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: content/resume
+  label: Resume
+  match: "**/*"
+- type: directory
+  path: content/videos
+  label: Videos
+  create: all
+  match: "*"
+- type: directory
+  path: content/Volunteer Work
+  label: Volunteer Work
+  create: all
+  match: "*"
+- type: document
+  path: content/Education
+  label: Education
+  match: "**/*"
+- type: directory
   path: content/publicrelations
   label: Public Relations
+  create: all
+  match: "**/*"
 - type: directory
   path: content
   label: News Stories
