@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/PublicRelations
   label: Public Relations
-  match: "**/*"
 - type: directory
   path: content
   label: News Stories
