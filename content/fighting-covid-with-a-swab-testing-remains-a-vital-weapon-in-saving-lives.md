@@ -2,7 +2,6 @@
 categories = ["News Story"]
 date = 2020-10-16T07:00:00Z
 description = "What does it mean to get a negative COVID-19 test result? It means an unmasked sigh of relief, that once again, in a year fraught with worry, there’s one less thing to be actively worried about."
-draft = true
 image = "/images/2020-10-5-falsenegative-cdc-test-artwork-2-1024x512-1.jpg"
 tags = ["newsstory", " salishcurrent"]
 title = "Fighting COVID with a swab: testing remains a vital weapon in saving lives"
