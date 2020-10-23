@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/best-bellingham-biking-on-galbraith-mountain.md
 - content/defund-the-police-movement-drives-whatcom-racial-justice-discussions.md
 - content/fighting-covid-with-a-swab-testing-remains-a-vital-weapon-in-saving-lives.md
 - content/more-scrutiny-sought-on-proposed-logging-around-north-fork-near-glacier.md
