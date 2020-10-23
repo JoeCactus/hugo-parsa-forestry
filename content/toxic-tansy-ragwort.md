@@ -2,7 +2,6 @@
 categories = ["News Story"]
 date = 2020-09-14T07:00:00Z
 description = "Pernicious, invasive and even sometimes deadly for livestock, tansy ragwort has enjoyed a booming bloom this summer in Whatcom, Skagit and San Juan counties and across the rest of western Washington and Oregon. Local weed boards and landowners seeking to eradicate the weed say they are finding more sites than ever this year."
-draft = true
 image = "/images/tansy-ragwort-image0031-1-1024x512-1.jpg"
 tags = ["salishcurrent", "newsstory"]
 title = "Toxic Tansy Ragwort"
