@@ -2,7 +2,6 @@
 categories = []
 date = 2019-04-03T07:00:00Z
 description = ""
-draft = true
 image = "/images/Bowling.jpg"
 tags = []
 title = "Bowling For Beds"
