@@ -1,3 +1,9 @@
++++
+date = 2020-10-23T07:00:00Z
+title = "Resume"
+type = "featured"
+
++++
 Resume
 
 Carson (Alex) Meacham 
@@ -127,4 +133,4 @@ Professional Goals
     Gain experience with working in a professional environment. 
     Gain experience in public relations and communications. 
     Continue learning about environmental issues, concepts and reasoning. 
-    Develop expertise in Environmental Public Relations, to positively influence the environment. 
+    Develop expertise in Environmental Public Relations, to positively influence the environment.
