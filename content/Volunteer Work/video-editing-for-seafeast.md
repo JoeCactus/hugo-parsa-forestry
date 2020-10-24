@@ -2,7 +2,6 @@
 categories = []
 date = 2020-10-17T07:00:00Z
 description = ""
-draft = true
 image = "/images/unnamed.jpg"
 tags = []
 title = "Video Editing for SeaFeast"
