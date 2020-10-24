@@ -2,7 +2,7 @@
 categories = []
 date = 2019-11-25T08:00:00Z
 description = ""
-image = ""
+image = "/images/ignite.jpg"
 tags = []
 title = "PR for IGNITE Fusion"
 type = "post"
