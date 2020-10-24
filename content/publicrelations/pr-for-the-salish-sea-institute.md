@@ -35,3 +35,9 @@ Quarterly newsletter from the Institute.
 [_“Salish Sea Institute Fall Newsletter”_](https://us18.campaign-archive.com/?u=8b5b17d53d4564637ec4ebbf1&id=6847f1a880)
 
 Quarterly newsletter from the Institute.
+
+**Media Samples**
+
+![](/images/SSI Hope Poster.jpg)
+
+![](/images/SSI Holiday Announcement.jpg)
