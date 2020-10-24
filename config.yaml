@@ -45,13 +45,13 @@ params:
   description: This is meta description
   preloader: true
   search: true
-  author: Themefisher
-  author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+  author: Alex Meacham
+  author_image: ''
+  bio: I’m a Freelance Environmental Journalist based in the Pacific Northwest! Feel
+    free to shoot me a message!
+  mobile: ''
+  email: alex.meachams@gmail.com
+  address: ''
   contact_form_action: "#"
   google_analitycs_id: Your ID
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
@@ -59,14 +59,10 @@ params:
     enable: true
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
   social:
-  - icon: ti-facebook
-    URL: "#"
   - icon: ti-twitter-alt
     URL: "#https://twitter.com/CAlexMeacham"
   - icon: ti-linkedin
     URL: "#https://www.linkedin.com/in/alex-meacham-861325183/"
-  - icon: ti-github
-    URL: "#"
 menu:
   main:
   - name: About
