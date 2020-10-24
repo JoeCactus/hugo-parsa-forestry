@@ -42,16 +42,16 @@ params:
   logo: images/logo.png
   home: Home
   layout: "1"
-  description: This is meta description
+  description: This is my portfolio
   preloader: true
   search: true
   author: Alex Meacham
   author_image: ''
   bio: I’m a Freelance Environmental Journalist based in the Pacific Northwest! Feel
     free to shoot me a message!
-  mobile: ''
+  mobile: Please email first!
   email: alex.meachams@gmail.com
-  address: ''
+  address: Bellingham, Washington
   contact_form_action: "#"
   google_analitycs_id: Your ID
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
