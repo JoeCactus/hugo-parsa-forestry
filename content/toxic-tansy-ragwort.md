@@ -5,7 +5,7 @@ description = "Pernicious, invasive and even sometimes deadly for livestock, tan
 image = "/images/tansy-ragwort-image0031-1-1024x512-1.jpg"
 tags = ["salishcurrent", "newsstory"]
 title = "Toxic Tansy Ragwort"
-type = "post"
+type = "featured"
 
 +++
 _Published in The Salish Current – 9/14/2020 –_ [_https://salish-current.org/2020/09/14/toxic-tansy-ragwort-is-having-a-boom-year/_](https://salish-current.org/2020/09/14/toxic-tansy-ragwort-is-having-a-boom-year/ "https://salish-current.org/2020/09/14/toxic-tansy-ragwort-is-having-a-boom-year/")
