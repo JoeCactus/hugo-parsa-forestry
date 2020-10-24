@@ -2,7 +2,6 @@
 categories = []
 date = 2019-11-25T08:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "PR for IGNITE Fusion"
